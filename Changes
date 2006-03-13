@@ -1,0 +1,8 @@
+CHANGES
+-------
+
+  2.000_10 13 March 2006
+
+      * Split IO::Compress::Bzip2 into its own distribution.
+
+
