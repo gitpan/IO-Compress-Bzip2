@@ -1,6 +1,13 @@
 CHANGES
 -------
 
+  2.000_11 22 March 2006
+
+      * Beefed up 050interop-bzip2.t to check that the external bzip2 command
+        works as expected before starting the tests. This means that
+        this test harness will just be skipped on problematic systems.
+
+
   2.000_10 13 March 2006
 
       * Split IO::Compress::Bzip2 into its own distribution.
