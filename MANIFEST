@@ -40,4 +40,3 @@ pod/FAQ.pod
 examples/bzcat
 examples/bzgrep
 examples/bzstream
-META.yml                                 Module meta-data (added by MakeMaker)
