@@ -1,6 +1,12 @@
 CHANGES
 -------
 
+  2.004 3 March 2007
+
+      * IO::Compress::Bzip2 
+
+        - Fixed 050interop-bzip2.t for Windows 
+
   2.003 2 January 2007
 
       * Added explicit version checking
