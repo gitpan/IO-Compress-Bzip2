@@ -17,6 +17,7 @@ t/105oneshot-bzip2.t
 t/106prime-bzip2.t
 t/107multi-bzip2.t
 t/108anyunc-bzip2.t
+t/110encode-bzip2.t
 t/999pod.t
 t/Test/Builder.pm
 t/Test/More.pm
@@ -24,6 +25,7 @@ t/Test/Simple.pm
 t/compress/any.pl
 t/compress/anyunc.pl
 t/compress/destroy.pl
+t/compress/encode.pl
 t/compress/generic.pl
 t/compress/merge.pl
 t/compress/multi.pl
