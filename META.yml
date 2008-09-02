@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                IO-Compress-Bzip2
-version:             2.012
+version:             2.014
 abstract:            Write bzip2 files/buffers
 license:             perl
 author:              
@@ -8,9 +8,9 @@ author:
 generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
-    Compress::Raw::Bzip2:          2.012
-    IO::Compress::Base:            2.012
-    IO::Uncompress::Base:          2.012
+    Compress::Raw::Bzip2:          2.014
+    IO::Compress::Base:            2.014
+    IO::Uncompress::Base:          2.014
 meta-spec:
     url:     http://module-build.sourceforge.net/META-spec-v1.3.html
     version: 1.3
